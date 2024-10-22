@@ -13,8 +13,6 @@ This project focuses on analyzing Diwali sales data to uncover valuable insights
 - [Usage](#usage)
 - [Analysis Highlights](#analysis-highlights)
 - [Conclusion](#conclusion)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The objective of this project is to analyze Diwali sales data to:
