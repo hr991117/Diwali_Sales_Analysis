@@ -64,10 +64,10 @@ Follow the steps below to run the project locally:
 
 ## Project Structure
 ```
-├── data/                       # Contains dataset used for analysis
+├── data/                        # Contains dataset used for analysis
 ├── Diwali_Sales_Analysis.ipynb  # Main analysis notebook
 ├── README.md                    # Project documentation
-└── DiwaliData.csv             # Dependencies
+└── DiwaliData.csv               # Raw Data Set
 ```
 
 ## Usage
